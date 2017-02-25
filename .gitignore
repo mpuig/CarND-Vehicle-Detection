@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/*
+*.pyc
+*.tar.gz
+*.zip
+__pycache__/*
+images_video/*
+non-vehicles/*
+vehicles/*
+examples/.DS_Store
